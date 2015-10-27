@@ -8,10 +8,11 @@ public class Sound {
 		double farAway = Double.parseDouble(reader.nextLine());
 		
 		double time;
-		
+		char ch = '\t';
 		farAway = farAway * 1100;
-		System.out.println("The strike was " + farAway + " feet from you.");
-
+		System.out.println( "The strike was " + farAway + " feet from you.");
+				
+				
 		}
 	}
 
