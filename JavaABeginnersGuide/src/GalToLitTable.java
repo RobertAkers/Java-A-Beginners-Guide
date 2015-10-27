@@ -12,6 +12,7 @@ public class GalToLitTable {
 		gallons = Double.parseDouble(newScanner.nextLine());
 		System.out.println("Enter the second number: ");
 		howManyGallons = Double.parseDouble(newScanner.nextLine());
+		System.out.println();
 
 		for (gallons = gallons; gallons <= howManyGallons; gallons++) {
 
