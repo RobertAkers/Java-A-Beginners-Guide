@@ -20,7 +20,7 @@ public class GalToLitTable {
 			System.out.println(gallons + " gallons is " + liters + " liters.");
 			counter++;
 
-			if (counter == 10) {
+			if (counter == 11) {
 				System.out.println();
 				counter = 0;
 			}
